@@ -14,34 +14,47 @@
 
 ### ✨ [Live Demo] 
 ## Home Page ( Current Weather ) 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66013192/227778767-492ef68a-831e-4281-a5e4-ae18904f54b3.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/66013192/227778790-ae18f88a-fcfe-4bbd-996b-b68b93cbfa4a.png" width=20% height=20%>
+</p>
 
-<img src="https://user-images.githubusercontent.com/66013192/227778767-492ef68a-831e-4281-a5e4-ae18904f54b3.png" width=34% height=34%>
-<img src="https://user-images.githubusercontent.com/66013192/227778790-ae18f88a-fcfe-4bbd-996b-b68b93cbfa4a.png" width=34% height=34%>
+
 
 ## Forecast Page ( Weather Forecast ) 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/66013192/227778877-c4f0f142-e451-4322-972a-069f4ad1b8cc.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/66013192/227778897-3e26a673-800a-44ab-b788-1863cbe18a9c.png" width=20% height=20%>
+</p>
 
 
-<img src="https://user-images.githubusercontent.com/66013192/227778877-c4f0f142-e451-4322-972a-069f4ad1b8cc.png" width=34% height=34%>
-<img src="https://user-images.githubusercontent.com/66013192/227778897-3e26a673-800a-44ab-b788-1863cbe18a9c.png" width=34% height=34%>
 
 
 ## World Weather Page ( Weather of the 6 cities )
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66013192/227778919-254fb353-0a39-4a6b-83a5-c144700719f1.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/66013192/227778932-41df0052-ca44-43e2-83c8-50a296229f83.png" width=20% height=20%>
+</p>
 
-<img src="https://user-images.githubusercontent.com/66013192/227778919-254fb353-0a39-4a6b-83a5-c144700719f1.png" width=34% height=34%>
-<img src="https://user-images.githubusercontent.com/66013192/227778932-41df0052-ca44-43e2-83c8-50a296229f83.png" width=34% height=34%>
 
 ## Settings page
 
-<img src="https://user-images.githubusercontent.com/66013192/227778967-deb10be7-16eb-4d5b-8227-640d7f0022cc.png" width=34% height=34%>
-<img src="https://user-images.githubusercontent.com/66013192/227778979-28c2abc1-cf75-4d08-8ac0-5df636bc27c2.png" width=34% height=34%>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66013192/227778967-deb10be7-16eb-4d5b-8227-640d7f0022cc.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/66013192/227778979-28c2abc1-cf75-4d08-8ac0-5df636bc27c2.png" width=20% height=20%>
+</p>
+
+
 
 ## About page
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66013192/227778994-fa7a65e8-a725-4549-9275-6daaf1bcb41f.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/66013192/227779020-365ebbb8-b44d-4a42-bfb0-69add9e2451e.png" width=20% height=20%>
+</p>
 
 
 
-<img src="https://user-images.githubusercontent.com/66013192/227778994-fa7a65e8-a725-4549-9275-6daaf1bcb41f.png" width=34% height=34%>
-<img src="https://user-images.githubusercontent.com/66013192/227779020-365ebbb8-b44d-4a42-bfb0-69add9e2451e.png" width=34% height=34%>
 
 
 
@@ -56,7 +69,7 @@ In Project Directory : flutter pub get
 3- Maybe you'll need to add  <uses-permission android:name="android.permission.INTERNET"/> in the AndroidManifest.xml to prevent some issues
 ```
 ## Author
-👤 **Rayan Ahmed 
+👤 **Rayan Ahmed** 
 ## Show your support
 Give a ⭐️ if this project helped you!
 ***
